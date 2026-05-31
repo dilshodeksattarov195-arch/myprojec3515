@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercecrypt",
+        "uuid": 3585300,
+        "checksum": "obtqkm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
